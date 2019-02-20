@@ -92,6 +92,7 @@ There's also slides from a talk named ["Clojure: What just happened?"](http://ww
 * [Rich Hickey on Clojure 1.4's Extensible Reader, ClojureScript (Apr 2012)](http://infoq.com/interviews/hickey-clojure-reader)
 * [Rich Hickey on Datomic: Datalog, Databases, Persistent Data Structures (Apr 2012)](http://infoq.com/interviews/hickey-datomic)
 * [Clojure inventor Hickey now aims for Android (Mar 2012)](http://infoworld.com/article/2619641/java/clojure-inventor-hickey-now-aims-for-android.html)
+* [Language Panel with Gerald Sussman, Rich Hickey, Allen Wirfs-Brock, Joe Pamer, Andrei Alexandrescu, and Jeremy Ashkenas (November 2011)](https://www.infoq.com/presentations/Language-Panel)
 * [(first (rich-hickey)) (Jun 2011)](http://blog.fogus.me/2011/06/09/first-rich-hickey)
 * [Rich Hickey Q&A (2011)](https://web.archive.org/web/20110614145543/http://codequarterly.com/2011/rich-hickey)
 * [Rich Hickey on Protocols and Clojure 1.3 (Dec 2010)](http://infoq.com/interviews/hickey-clojure-protocols)
